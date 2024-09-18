@@ -1,1 +1,1 @@
-This is assignment 2 of exam week 2 
+This is Module 10 assignment of Full Stack Web Development with JavaScript (MERN)
